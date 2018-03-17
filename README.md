@@ -1,5 +1,5 @@
 # tensorflow-examples
-This repository consists of notebooks for different models implemented using tensorflow 
+This repository consists of notebooks for different models implementations and random experimentations using tensorflow 
 
 ## Overview ## 
 
